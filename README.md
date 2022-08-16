@@ -35,8 +35,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kandluis)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kandluis&show_icons=true&locale=en&layout=compact" alt="kandluis" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kandluis&show_icons=true&locale=en" alt="kandluis" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kandluis&" alt="kandluis" /></p>
