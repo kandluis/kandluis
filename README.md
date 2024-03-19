@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **luis.perez.live@gmail.com**
 
-- 📄 Know about my experiences [https://luisperez.me/experience/](https://luisperez.ml/experience/)
+- 📄 Know about my experiences [https://luisperez.me/experience/](https://luisperez.me/experience/)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
