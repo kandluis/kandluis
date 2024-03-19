@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Luis Perez</h1>
-<h3 align="center">Staff Software Engineer and AI Expert at Waymo</h3>
+<h3 align="center">Senior Staff Software Engineer and AI Expert at Waymo</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kandluis&label=Profile%20views&color=0e75b6&style=flat" alt="kandluis" /> </p>
 
